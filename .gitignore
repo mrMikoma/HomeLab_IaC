@@ -1,0 +1,10 @@
+# Cloud init
+/cloud-init/jammy-server-cloudimg-amd64.img
+
+# Terraform Demo
+/terraform-demo/vars.tf
+/terraform-demo/.terraform
+/terraform-demo/.terraform.lock.hcl
+/terraform-demo/terraform.tfstate
+/terraform-demo/terraform-plugin-proxmox.log
+/terraform-demo/terraform.tfstate.backup
